@@ -1,4 +1,6 @@
-excellent tutorial!!!! https://swiftui-lab.com/alignment-guides/
+Excellent tutorial -- clear and easy to understand: 
+
+good tutorial but hard to understand https://swiftui-lab.com/alignment-guides/
 
 <img width="1011" alt="image" src="https://user-images.githubusercontent.com/81428296/226799398-80d83125-349d-4e7e-81f0-c8237513a9fb.png">
 
