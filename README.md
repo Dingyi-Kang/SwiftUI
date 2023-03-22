@@ -1,5 +1,5 @@
 # SwiftUI
 
 - [UI Layout](layout/)
-  * [Custom Alignment](layout/alignment.md)
+  * [Alignment Guide](layout/alignment.md)
   * [Z-Stack Alignment](layout/zstack.md)
