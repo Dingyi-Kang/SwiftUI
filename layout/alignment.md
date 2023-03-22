@@ -1,4 +1,4 @@
-Excellent tutorial -- clear and easy to understand: 
+Excellent tutorial -- clear and easy to understand: https://www.youtube.com/watch?v=N5Nh3ce8xbE
 
 good tutorial but hard to understand https://swiftui-lab.com/alignment-guides/
 
