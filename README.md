@@ -8,3 +8,5 @@
 - [Side Menu](sideMenu/)
   * [Basic side menu tutorial](sideMenu/basic.md)
   * [Advanced ide menu with navigation link](sideMenu/sideMenuNavLink.md)
+- [Custom View](View/)
+ * [Round only certain corners](View/roundCorner.md)
