@@ -9,4 +9,6 @@
   * [Basic side menu tutorial](sideMenu/basic.md)
   * [Advanced ide menu with navigation link](sideMenu/sideMenuNavLink.md)
 - [Custom View](View/)
- * [Round only certain corners](View/roundCorner.md)
+  * [Round only certain corners](View/roundCorner.md)
+- [List](List/)
+  * [Custom the styling of list](List/style.md)
