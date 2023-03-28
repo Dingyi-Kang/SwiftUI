@@ -12,3 +12,6 @@
   * [Round only certain corners](View/roundCorner.md)
 - [List](List/)
   * [Custom the styling of list](List/style.md)
+- [Navigation View](Nav/)
+  * [Add title in the nav bar of destination view](Nav/title.md) 
+  * [Add add bar items to a navigation bar](Nav/barItem.md) 
