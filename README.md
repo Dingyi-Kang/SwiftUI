@@ -18,4 +18,6 @@
   * [Add add bar items to a navigation bar](Nav/barItem.md) 
 - [ScrollView](scrollView/)
   * [Vertical and horizontal and hidden scrollIndicator](scrollView/basic.md)
-- [Create views in a loop using ForEach](forEach/basic.md)
+- [ForEach](forEach/)
+  * [Create views in a loop using ForEach](forEach/basic.md)
+  * [Alignment issue within ForEach loop](forEach/alignment.md)
