@@ -19,6 +19,7 @@
   * [Custom back button view](Nav/backView.md)
 - [ScrollView](scrollView/)
   * [Vertical and horizontal and hidden scrollIndicator](scrollView/basic.md)
+  * [ScrollView + LazyVStack -- alternative of List View](scrollView/AlternativeList.md)
 - [ForEach](forEach/)
   * [Create views in a loop using ForEach](forEach/basic.md)
   * [Alignment issue within ForEach loop](forEach/alignment.md)
