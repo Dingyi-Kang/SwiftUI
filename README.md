@@ -11,6 +11,7 @@
 - [Custom Animation](animation/)
   * [Custom segments control with animation](animation/segmentControl.md)
   * [DragGesture](animation/gradDesture.md)
+  * [Slider control animation](animation/sliderControl.md)
 - [Side Menu](sideMenu/)
   * [Basic side menu tutorial](sideMenu/basic.md)
   * [Advanced ide menu with navigation link](sideMenu/sideMenuNavLink.md)
