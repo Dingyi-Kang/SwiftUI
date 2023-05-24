@@ -24,6 +24,8 @@
   * [Add add bar items to a navigation bar](Nav/barItem.md) 
   * [Custom back button view](Nav/backView.md)
   * [How to navigate programmatically -- namely, speify a logic instead of button](Nav/programmatically.md)
+_ [Built-in AlertView](alertView/)
+  * [How to add textField in build-in alertView](alertView/addTextFiled.md)
 - [ScrollView](scrollView/)
   * [Vertical and horizontal and hidden scrollIndicator](scrollView/basic.md)
   * [ScrollView + LazyVStack -- alternative of List View](scrollView/AlternativeList.md)
