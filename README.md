@@ -6,6 +6,8 @@
   * [Custom Alignment Guide](layout/customAlignment.md)
   * [Z-Stack Alignment](layout/zstack.md)
   * [Rectangle](layout/rectangle.md)
+- [Image](image/)
+  * [How to load from bundle and different way to work with images](image/loadFromBundles.md)
 - [Side Menu](sideMenu/)
   * [Basic side menu tutorial](sideMenu/basic.md)
   * [Advanced ide menu with navigation link](sideMenu/sideMenuNavLink.md)
