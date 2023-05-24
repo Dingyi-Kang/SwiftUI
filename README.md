@@ -15,7 +15,7 @@
   * [Round only certain corners](View/roundCorner.md)
 - [Pop up View](popupView/)
   * [Pop up windown/aler view in the middle](popupView/alertView.md)
-  * [Pop up bottom sheet view]()
+  * [Pop up bottom sheet view](popupView/bottomSheetView.md)
 - [List](List/)
   * [Custom the styling of list](List/style.md)
   * [Remove or customize sepearator lines before iOS 16](List/customizeSeperatorLine.md)
