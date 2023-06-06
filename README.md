@@ -6,6 +6,7 @@
   * [Custom Alignment Guide](layout/customAlignment.md)
   * [Z-Stack Alignment](layout/zstack.md)
   * [Rectangle](layout/rectangle.md)
+  * [Custom positioning](layout/position.md)
 - [Image](image/)
   * [How to load from bundle and different ways to work with images and make images fit](image/loadFromBundles.md)
 - [Custom Animation](animation/)
