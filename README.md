@@ -18,6 +18,8 @@
   * [Advanced ide menu with navigation link](sideMenu/sideMenuNavLink.md)
 - [Custom View](View/)
   * [Round only certain corners](View/roundCorner.md)
+- [Web View](Web/)
+  * [Great tutorial](https://sarunw.com/posts/swiftui-webview/)
 - [Pop up View](popupView/)
   * [Pop up windown/aler view in the middle](popupView/alertView.md)
   * [Pop up bottom sheet view](popupView/bottomSheetView.md)
