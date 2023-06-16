@@ -41,7 +41,8 @@ _ [Built-in AlertView](alertView/)
   * [Alignment issue within ForEach loop](forEach/alignment.md)
 - [Pop-up Sheet](sheet/)  
   * [Below iOS 16, add drag indicator](sheet/dragIndicator.md)  
-- [Combine](combine/)
+- [Combine & communication](combine/)
   * [How to solve the issue wrapper property cannot be assigned to computed property](combine/alternativeOfComputedProperty.md)
+  * [OnChange vs onReceive modifier](combine/onChangeOnreceive.md)
 
 
