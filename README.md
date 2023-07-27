@@ -34,6 +34,7 @@
   * [Add add bar items to a navigation bar](Nav/barItem.md) 
   * [Custom back button view](Nav/backView.md)
   * [How to navigate programmatically -- namely, speify a logic instead of button](Nav/programmatically.md)
+  * [Programmatically navigation -- jump from one childView of the root to another childView](Nav/programmaticallyJump.md)
 _ [Built-in AlertView](alertView/)
   * [How to add textField in build-in alertView](alertView/addTextFiled.md)
 - [ScrollView](scrollView/)
